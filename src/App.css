@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+.app {
+  text-align: center;
+}
+
+.counter h2 {
+  font-size: 4rem;
+  margin: 20px;
+}
+
+.buttons button {
+  font-size: 1.5rem;
+  margin: 5px;
+  padding: 10px 20px;
+}
